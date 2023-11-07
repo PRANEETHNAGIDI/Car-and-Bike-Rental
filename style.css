@@ -17,7 +17,7 @@ a{
 
 }
 .mynavbar.navbar-scrolled {
-    background-color: #e03637; 
+    background-color: #FF5733; 
     transition: background-color  0.21s; 
 
 }
@@ -103,11 +103,9 @@ text-align: center;
 }
 
 .icon:hover {
-    /* Change the bottom border on hover */
     width: 85px;
     height: 75px;
-    background-color: #e03636ad;
-    border-radius: 25px;
+    background-color: #FF5733;
     border-bottom: 5px solid rgb(255, 255, 255);
 }
 
