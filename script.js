@@ -11,7 +11,7 @@ window.addEventListener("scroll", function() {
 
 // image will slide here 
 var i = 0;
-var images = ['images/cover_page1.jpg', 'images/cover_page2.png', 'images/cover_page3.png', 'images/cover_page5.png','images/cover_page6.png','images/cover_page7.png','images/cover_page8.png'];
+var images = ['cover_page1.jpg', 'cover_page2.png', 'cover_page3.png', 'cover_page5.png','cover_page6.png','cover_page7.png','cover_page8.png'];
 
 function changeImage() {
     document.slide.src = images[i];
